@@ -1,0 +1,23 @@
+ESSENTIAL:
+
+- Player Movement (sprinting too)
+- Punching
+- Map Generation
+- Minimap
+- enemy spawn 
+- fighting 
+- Weapons (all abilities too)
+- chests 
+- powerups 
+- merchant
+- coins
+
+*if these are added the game is complete 
+
+Polish: 
+
+MOST IMPORTANT:
+
+- Particles
+- make movement and collisions not feel junky 
+- make the game have a decent loop
